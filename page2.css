@@ -1,0 +1,40 @@
+#q1{
+  height: 15%;
+  width: 100%;
+ 
+  background-color: powderblue;
+}
+#q2{
+  height: 35%;
+  width: 20%;
+ 
+ background-color: lightpink;
+ }
+#q3{
+ height: 50%;
+  width: 20%;
+ 
+  background-color: lightgreen;
+}
+#q4{
+  height: 25%;
+  width: 20%;
+
+  background-color: darkblue;
+}
+#q2 {
+  width: 227px;
+  border: 10px solid green;
+  padding: 10px;
+  margin: 0px;
+}
+
+tr:{background-color: #f2f2f2;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
