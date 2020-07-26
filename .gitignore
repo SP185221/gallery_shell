@@ -1,5 +1,6 @@
-.DS_Store
-assert.sh
-*.html
-*.gif
-*.jpg
+*.gem
+.bundle
+.sass-cache
+_site/
+Gemfile.lock
+**/.ruby-version
